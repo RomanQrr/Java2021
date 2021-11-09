@@ -7,6 +7,7 @@
     <modules>
         <module>Java_04_2</module>
         <module>Java_06</module>
+        <module>Java_07</module>
     </modules>
     <dependencies>
         <dependency>

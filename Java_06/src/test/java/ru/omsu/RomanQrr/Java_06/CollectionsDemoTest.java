@@ -40,7 +40,7 @@ public class CollectionsDemoTest {
         List<Human> newPeople = new ArrayList<>(people);
 
         people.get(1).setAge(24);
-        
+
         assertNotEquals(newPeople.get(1).getAge(), 17);
 
     }
