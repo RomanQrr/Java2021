@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Java_04_2</module>
+        <module>Java_06</module>
     </modules>
     <dependencies>
         <dependency>
